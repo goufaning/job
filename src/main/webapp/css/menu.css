@@ -1,0 +1,38 @@
+#jcFrame {}
+#jcSide {
+    position: fixed;bottom: 0;left: -210px;top: 51px;
+    background: #2a2a2a;width:250px;
+    border-right: 1px solid #e5e5e5;
+    color: #999999}
+#jcSide li { height:50px;}
+#jcSide li a {  color: white; padding-left:10px;display: inline-block;
+    cursor:pointer; display:block; line-height:50px;  height:50px;  }
+#jcSide li span {margin-left: 8px;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 14px;}
+#jcSide li a:hover { background-color:#F49484; }
+#jcSide li.select a { background-color:#E78170; }
+.jcContent { margin-left:230px;background-color: white;width:950px;
+    height:auto!important;
+    /*最小高度又自适应*/
+    height:70%;
+    min-height:70%;
+    color: black;padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 80px;
+    background-color: honeydew;
+
+}
+.jcContent .jcTitle { height:40px; font-size:45px; text-align:center; border-bottom:2px solid #5b992b;
+    margin-left: 30px;color: #5b992b}
+.jcContent td {color: black;height: 50px;text-align: center}
+.icon {
+    width: 40px;
+    height: 40px;
+    float: right;
+    margin: 2px;
+}
+.contact_form{padding-top:40px;}

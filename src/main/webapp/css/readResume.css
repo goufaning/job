@@ -1,0 +1,19 @@
+#readResume table {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+#readResume tr td{
+    border-right: 0;
+    border-bottom: 1px solid #C1DAD7;
+    background: #fff;
+    font-size: 11px;
+    padding: 6px 6px 6px 12px;
+    color: #4f6b72;
+    text-align: left;
+}
+#readResume hr{
+    height:10px;border:none;border-top:10px groove skyblue;
+}
+#readResume b {
+    font-size: 20px;
+}
