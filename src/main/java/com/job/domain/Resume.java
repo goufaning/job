@@ -1,6 +1,7 @@
 package com.job.domain;
 
 /**
+ * 简历
  * Created by goufaning on 2016/11/15.
  */
 public class Resume {

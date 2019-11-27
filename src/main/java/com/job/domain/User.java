@@ -1,6 +1,7 @@
 package com.job.domain;
 
 /**
+ * 用户
  * Created by goufaning on 2016/11/13.
  */
 public class User {

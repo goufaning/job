@@ -1,6 +1,7 @@
 package com.job.domain;
 
 /**
+ * 工作
  * Created by goufaning on 2016/11/19.
  */
 public class Job {

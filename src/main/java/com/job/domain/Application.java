@@ -1,6 +1,7 @@
 package com.job.domain;
 
 /**
+ * 申请
  * Created by goufaning on 2016/11/21.
  */
 public class Application {
